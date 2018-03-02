@@ -1,0 +1,9 @@
+C:\Users\97901\source\repos\Doreport\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\97901\source\repos\Doreport\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\97901\source\repos\Doreport\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\97901\source\repos\Doreport\ConsoleApp1\bin\Debug\Doreport.dll
+C:\Users\97901\source\repos\Doreport\ConsoleApp1\bin\Debug\Doreport.pdb
+C:\Users\97901\source\repos\Doreport\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\97901\source\repos\Doreport\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\97901\source\repos\Doreport\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\97901\source\repos\Doreport\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

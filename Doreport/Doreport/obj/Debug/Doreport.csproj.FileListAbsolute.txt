@@ -1,0 +1,5 @@
+C:\Users\97901\source\repos\Doreport\Doreport\bin\Debug\Doreport.dll
+C:\Users\97901\source\repos\Doreport\Doreport\bin\Debug\Doreport.pdb
+C:\Users\97901\source\repos\Doreport\Doreport\obj\Debug\Doreport.csproj.CoreCompileInputs.cache
+C:\Users\97901\source\repos\Doreport\Doreport\obj\Debug\Doreport.dll
+C:\Users\97901\source\repos\Doreport\Doreport\obj\Debug\Doreport.pdb
